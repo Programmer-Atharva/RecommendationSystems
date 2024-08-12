@@ -9,3 +9,10 @@ This is a simple movie recommendation website
 following snap of website :
 
   ![movie](https://github.com/user-attachments/assets/c69004f0-6492-4bed-8d97-5210b88b5084)
+
+
+to run file in your env :
+- install streamlit
+- activate streamlit
+- cd <your_project_directory>
+- strealit run app.py
